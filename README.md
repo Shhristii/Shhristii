@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=bimal009&label=Profile%20views&color=0e75b6&style=flat" alt="amritxyz" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Shhristii&label=Profile%20views&color=0e75b6&style=flat" alt="amritxyz" /> </p>
 
 <h1 align="left">Hi, I'm Shristi!</h1>
 
@@ -73,15 +73,6 @@
 
 
 
-###
-
-<h2 align="left">Contributions: </h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/Shhristii/Shhristii/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
-
-###
 
 <h2 align="left">Stats: </h2>
 
