@@ -18,20 +18,13 @@
 
 <div align="left">
 
-  <a href="https://www.linkedin.com/in/bimal-pandey-246780352/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" />
-</a>
 
-<a href="https://www.facebook.com/profile.php?id=61572614645732" target="_blank">
+<a href="https://www.facebook.com/bhattarai.aarci.9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="facebook logo" />
 </a>
 
-<a href="https://www.instagram.com/bunchoo_graphics11/" target="_blank">
+<a href="https://www.instagram.com/shre_esty_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" />
-</a>
-
-<a href="https://www.youtube.com/@CodeWithBunchoo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="youtube logo" />
 </a>
 
  
